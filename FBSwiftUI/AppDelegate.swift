@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  FBSwiftUI
-//
-//  Created by Konstantinos Rizos on 3/3/20.
-//  Copyright © 2020 Konstantinos Rizos. All rights reserved.
-//
 
 import UIKit
 
