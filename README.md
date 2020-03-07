@@ -4,7 +4,8 @@
 
 ### I went ahead and built out UI that is very similar to apps on the AppStore today. Namely, a layout that has a horizontal header with a vertical list below it.
 
-- [x] 100% ProgrammaticUI
+- [x] NavigationView
+- [x] List
 
 #### ScreenShots of the app.
 ![](Assets/ScreenShots.png)
