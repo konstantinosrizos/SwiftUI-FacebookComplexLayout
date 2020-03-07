@@ -1,8 +1,8 @@
 #  FaceBook UI
 
-### I went ahead and built out UI that is very similar to apps on the AppStore today. Namely, a layout that has a horizontal header with a vertical list below it.
+![](Assets/swiftui-badge.png=100x100)
 
-![](Assets/swiftui-badge.png)
+### I went ahead and built out UI that is very similar to apps on the AppStore today. Namely, a layout that has a horizontal header with a vertical list below it.
 
 - [x] 100% ProgrammaticUI
 
