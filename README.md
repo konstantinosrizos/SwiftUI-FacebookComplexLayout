@@ -2,7 +2,7 @@
 
 ### I went ahead and built out UI that is very similar to apps on the AppStore today. Namely, a layout that has a horizontal header with a vertical list below it.
 
-![](Assets/swiftui-badge)
+![](Assets/swiftui-badge.png)
 
 - [x] 100% ProgrammaticUI
 
