@@ -1,6 +1,6 @@
 #  FaceBook UI
 
-![](Assets/swiftui-badge.png){:width="88px"}
+<img src="./Assets/swiftui-badge.png" width="88px" />
 
 ### I went ahead and built out UI that is very similar to apps on the AppStore today. Namely, a layout that has a horizontal header with a vertical list below it.
 
